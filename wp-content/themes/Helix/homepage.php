@@ -10,11 +10,33 @@
  * @package web2feel
  * @since web2feel 1.0
  */?>
-
-
-
+<style>
+    #slogan{
+       margin: 0px 0 0 240px; 
+       padding: 60px 0 0 25px;
+    }
+    #group1 p{
+        font-size: 20px;
+        color: white;
+        font-weight: bolder;
+        text-align: right;
+    }
+    #group2 p{
+        font-size: 30px;
+        color: white;
+        font-weight: bolder;
+        text-align: center;
+    }
+    #group3 p{
+        font-size: 20px;
+        color: white;
+        font-weight: bolder;
+        text-align: center;
+    }
+    
+    
+</style>
 	<img id="cycle-loader" src="../lib/images/ajax-loader.gif" />
-
 	<div id="maximage">
 
 				<?php $count = of_get_option('w2f_slide_number');
@@ -36,5 +58,20 @@
 			<li id="arrow_right"></li>
 		</ul>
 	</div>
-<?get_header(); ?>	
+<?get_header(); ?>
+<div id="slogan">
+    <div id="group1">
+        <p>У конкурентов уже есть сайт?<br>
+           Нужно увеличить поток клиентов?<br>
+           Не хотите вкладывать много денег?</p>
+    </div>
+    <div id="group2">
+        <p>Позвоните нам и забудьте эти проблеммы!!!
+           тел. +7(3462)904928</p>
+    </div>
+    <div id="group3">
+        <p>Поможем Вам открыть представительство в сети Интернет
+и          доведем ваш сайт до первых клиентов, без лишних затрат.</p>
+    </div>
 <?php get_footer(); ?>
+</div>
