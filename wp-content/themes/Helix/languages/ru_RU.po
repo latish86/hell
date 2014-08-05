@@ -1,0 +1,726 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Helix v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-04-30 18:40+0200\n"
+"Last-Translator: Игорь <dybabiz@ya.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ web2feel
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Это страница не может быть найдена."
+
+# @ web2feel
+#: 404.php:20
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr "По данному адресу ничего не найдено. Воспользуйтесь поиском."
+
+# @ web2feel
+#: archive.php:22
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Категория: %s"
+
+# @ web2feel
+#: archive.php:25
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Архивы тегов: %s"
+
+# @ web2feel
+#: archive.php:32
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Архивы автора: %s"
+
+# @ web2feel
+#: archive.php:40
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Дневные архивы: %s"
+
+# @ web2feel
+#: archive.php:43
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Месячные архивы: %s"
+
+# @ web2feel
+#: archive.php:46
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Годовые архивы: %s"
+
+# @ web2feel
+#: archive.php:49
+msgid "Archives"
+msgstr "Архивы"
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:164 getplugins.php:91
+msgid "Install Required Plugins"
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:165 getplugins.php:92
+msgid "Install Plugins"
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:166 getplugins.php:93
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:168 getplugins.php:95
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:169 getplugins.php:96
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:170 getplugins.php:97
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:171 getplugins.php:98
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:172 getplugins.php:99
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:173 getplugins.php:100
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:174 getplugins.php:101
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:175 getplugins.php:102
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:176 getplugins.php:103
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:177 getplugins.php:104
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:178 class-tgm-plugin-activation.php:488
+#: getplugins.php:105
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:179 class-tgm-plugin-activation.php:1841
+#: getplugins.php:106
+msgid "Plugin activated successfully."
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:515 class-tgm-plugin-activation.php:2053
+msgid "Return to the Dashboard"
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:543
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:702
+msgid "Dismiss this notice"
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1086
+msgid "External Link"
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1091
+msgid "Private Repository"
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1094
+msgid "Pre-Packaged"
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1098
+msgid "WordPress Repository"
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1101
+msgid "Required"
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1101
+msgid "Recommended"
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1104
+msgid "Not Installed"
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1106
+msgid "Installed But Not Activated"
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1276
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1292
+msgid "Plugin"
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1293
+msgid "Source"
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1294
+msgid "Type"
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1295
+msgid "Status"
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1313
+msgid "Install"
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1314
+msgid "Activate"
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1539
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1824
+msgid "Install package not available."
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1825
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1826
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1827
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1828
+msgid "Plugin install failed."
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1829
+msgid "Plugin installed successfully."
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1840
+msgid "Plugin activation failed."
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1950
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1951
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1951 class-tgm-plugin-activation.php:1960
+msgid "Show Details"
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1951 class-tgm-plugin-activation.php:1960
+msgid "Hide Details"
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1952
+msgid "All installations and activations have been completed."
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1953
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1957
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1960
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1961
+msgid "All installations have been completed."
+msgstr ""
+
+# @ web2feel
+#: class-tgm-plugin-activation.php:1962
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+# @ web2feel
+#: comments.php:32
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Один комментарий на &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментариев на &ldquo;%2$s&rdquo;"
+
+# @ web2feel
+#: comments.php:39 comments.php:59
+msgid "Comment navigation"
+msgstr "Комментарий навигация"
+
+# @ web2feel
+#: comments.php:40 comments.php:60
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+# @ web2feel
+#: comments.php:41 comments.php:61
+msgid "Newer Comments &rarr;"
+msgstr "Следующие комментарии &rarr;"
+
+# @ web2feel
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+# @ web2feel
+#: content-page.php:17 content-single.php:19
+msgid "Pages:"
+msgstr "Страницы:"
+
+# @ web2feel
+#: content-page.php:18 content-single.php:57
+msgid "Edit"
+msgstr "Редактировать"
+
+# @ web2feel
+#: content-search.php:11 content.php:11
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+# @ web2feel
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:25
+msgid ", "
+msgstr ""
+
+# @ web2feel
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:33
+#, php-format
+msgid ""
+"This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink "
+"to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Метки: %2$s. "
+
+# @ web2feel
+#: content-single.php:35
+#, php-format
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+# @ web2feel
+#: content-single.php:41
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Рубрика: %1$s метки: %2$s."
+
+# @ web2feel
+#: content-single.php:43
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Рубрика: %1$s."
+
+# @ web2feel
+#: functions.php:83
+msgid "Primary Menu"
+msgstr "Главное меню"
+
+# @ web2feel
+#: functions.php:110
+msgid "Sidebar"
+msgstr ""
+
+# @ default
+#: functions.php:157 functions.php:168
+msgctxt "slide"
+msgid "Slides"
+msgstr "Слайды"
+
+# @ default
+#: functions.php:158
+msgctxt "slide"
+msgid "Slide"
+msgstr "Слайд"
+
+# @ default
+#: functions.php:159
+msgctxt "slide"
+msgid "Add New"
+msgstr "Добавить"
+
+# @ default
+#: functions.php:160
+msgctxt "slide"
+msgid "Add New Slide"
+msgstr ""
+
+# @ default
+#: functions.php:161
+msgctxt "slide"
+msgid "Edit Slide"
+msgstr ""
+
+# @ default
+#: functions.php:162
+msgctxt "slide"
+msgid "New Slide"
+msgstr ""
+
+# @ default
+#: functions.php:163
+msgctxt "slide"
+msgid "View Slide"
+msgstr ""
+
+# @ default
+#: functions.php:164
+msgctxt "slide"
+msgid "Search Slides"
+msgstr ""
+
+# @ default
+#: functions.php:165
+msgctxt "slide"
+msgid "No slides found"
+msgstr ""
+
+# @ default
+#: functions.php:166
+msgctxt "slide"
+msgid "No slides found in Trash"
+msgstr ""
+
+# @ default
+#: functions.php:167
+msgctxt "slide"
+msgid "Parent Slide:"
+msgstr ""
+
+# @ web2feel
+#: getplugins.php:94
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+# @ web2feel
+#: getplugins.php:107
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+# @ web2feel
+#: header.php:33
+#, php-format
+msgid "Page %s"
+msgstr "Страница %s"
+
+# @ web2feel
+#: inc/template-tags.php:26
+msgid "Post navigation"
+msgstr "Запись навигация"
+
+# @ web2feel
+#: inc/template-tags.php:30
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+# @ web2feel
+#: inc/template-tags.php:31
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+# @ web2feel
+#: inc/template-tags.php:36
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Предыдущие записи"
+
+# @ web2feel
+#: inc/template-tags.php:40
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Следующие записи <span class=\"meta-nav\">&rarr;</span>"
+
+# @ web2feel
+#: inc/template-tags.php:65
+msgid "Pingback:"
+msgstr ""
+
+# @ web2feel
+#: inc/template-tags.php:65 inc/template-tags.php:89
+msgid "(Edit)"
+msgstr "(Редактировать)"
+
+# @ web2feel
+#: inc/template-tags.php:79
+#, php-format
+msgid "%s"
+msgstr ""
+
+# @ web2feel
+#: inc/template-tags.php:81
+msgid "Your comment is awaiting moderation."
+msgstr "Спасибо! Ваш комментарий ожидает проверки."
+
+# @ web2feel
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:87
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+# @ web2feel
+#: inc/template-tags.php:118
+#, php-format
+msgid ""
+"Posted on <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class="
+"\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"byline"
+"\"> by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" "
+"title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+msgstr ""
+"Опубликовано <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class="
+"\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"byline"
+"\"> - <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title="
+"\"%6$s\" rel=\"author\">%7$s</a></span></span>"
+
+# @ web2feel
+#: inc/template-tags.php:124
+#, php-format
+msgid "View all posts by %s"
+msgstr "Просмотр всех записей %s"
+
+# @ web2feel
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+# @ web2feel
+#: no-results.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Готовы опубликовать ваш первый пост? <a href=\"%1$s\">Начать здесь</a>."
+
+# @ web2feel
+#: no-results.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Извините, но ничего не удовлетворяющих вашим условиям поиска. Пожалуйста, "
+"попробуйте еще раз."
+
+# @ web2feel
+#: no-results.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Кажется, мы не можем найти то, что вы ищете. Возможно, поиск поможет."
+
+# @ web2feel
+#: search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результат поиска: %s"
+
+# @ web2feel
+#: searchform.php:10 searchform.php:12
+msgid "Search"
+msgstr "Поиск"
+
+# @ web2feel
+#: searchform.php:11
+msgid "Search &hellip;"
+msgstr "Искать &hellip;"
