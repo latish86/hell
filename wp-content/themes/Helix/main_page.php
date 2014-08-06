@@ -43,14 +43,14 @@ get_header(); ?>
         <li  style="width: 100%;">
             <div><h2 align="center">Наши работы:</h2></div>
         </li>
-        <li>
+        <!--<li>
             <div>
                 <a href="http://toglory.ru/?page_id=64">
                     <?php echo get_the_post_thumbnail('64', 'medium'); ?>
                     <h3 align="center">Сайт  журнала "Мой Сургут"</h3>
                 </a>
             </div>
-        </li>
+        </li>-->
         <li>
             <div>
                 <a href="http://toglory.ru/?page_id=67">
