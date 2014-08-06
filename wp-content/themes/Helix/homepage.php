@@ -52,12 +52,12 @@
 				<?php endwhile; endif; ?>
 	</div>
 	<div class="mesh"></div>
-	<div class="dome">
+	<!--<div class="dome">
 		<ul>
 			<li id="arrow_left"></li>
 			<li id="arrow_right"></li>
 		</ul>
-	</div>
+	</div>-->
 <?get_header(); ?>
 <div id="slogan">
     <div id="group1">
@@ -65,10 +65,12 @@
            Нужно увеличить поток клиентов?<br>
            Не хотите вкладывать много денег?</p>
     </div>
+    <br>
     <div id="group2">
         <p>Позвоните нам и забудьте эти проблеммы!!!
-           тел. +7(3462)904928</p>
+           +7(3462)904928</p>
     </div>
+    <br>
     <div id="group3">
         <p>Поможем Вам открыть представительство в сети Интернет
 и          доведем ваш сайт до первых клиентов, без лишних затрат.</p>
